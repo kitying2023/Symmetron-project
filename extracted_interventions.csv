@@ -1,0 +1,180 @@
+nct_id,intervention_id,name,description,title
+NCT01818063,73676220,Paclitaxel,Given IV,"Arm 1 (paclitaxel, carboplatin)"
+NCT01818063,73676220,Paclitaxel,Given IV,"Arm 2 (veliparib, paclitaxel, carboplatin)"
+NCT01818063,73676221,Carboplatin,Given IV,"Arm 1 (paclitaxel, carboplatin)"
+NCT01818063,73676221,Carboplatin,Given IV,"Arm 2 (veliparib, paclitaxel, carboplatin)"
+NCT01818063,73676222,Doxorubicin,Given IV,"Arm 1 (paclitaxel, carboplatin)"
+NCT01818063,73676222,Doxorubicin,Given IV,"Arm 2 (veliparib, paclitaxel, carboplatin)"
+NCT01818063,73676223,Cyclophosphamide,Given IV,"Arm 1 (paclitaxel, carboplatin)"
+NCT01818063,73676223,Cyclophosphamide,Given IV,"Arm 2 (veliparib, paclitaxel, carboplatin)"
+NCT01818063,73676224,Veliparib,Given PO,"Arm 2 (veliparib, paclitaxel, carboplatin)"
+NCT03499353,73388081,TALAZOPARIB,Talazoparib 1mg/day,TALAZOPARIB
+NCT03840200,73390081,Ipatasertib,Ipatasertib will be administered orally.,Dose Expansion
+NCT03840200,73390081,Ipatasertib,Ipatasertib will be administered orally.,Dose escalation-Cohort 1
+NCT03840200,73390081,Ipatasertib,Ipatasertib will be administered orally.,Dose escalation-Cohort 2a
+NCT03840200,73390081,Ipatasertib,Ipatasertib will be administered orally.,Dose escalation-Cohort 2b
+NCT03840200,73390081,Ipatasertib,Ipatasertib will be administered orally.,Dose escalation-Cohort 3
+NCT03840200,73390082,Rucaparib,Rucaparib will be administered orally.,Dose Expansion
+NCT03840200,73390082,Rucaparib,Rucaparib will be administered orally.,Dose escalation-Cohort 1
+NCT03840200,73390082,Rucaparib,Rucaparib will be administered orally.,Dose escalation-Cohort 2a
+NCT03840200,73390082,Rucaparib,Rucaparib will be administered orally.,Dose escalation-Cohort 2b
+NCT03840200,73390082,Rucaparib,Rucaparib will be administered orally.,Dose escalation-Cohort 3
+NCT02032823,73390241,Olaparib,"Patients will be administred olaparib orally twice daily (b.i.d.) at 300 mg. Two (2) x 150 mg olaparib tablets should be taken at the same times each morning and evening of each day, approximately 12 hours apart with approximately 240 ml of water.",Olaparib
+NCT02032823,73390242,Placebo,"Patients will be administred matching placebo. Two (2) tablets should be taken at the same times each morning and evening of each day, approximately 12 hours apart with approximately 240 ml of water.",Placebo
+NCT02401347,73531494,Talazoparib Tosylate,Participants receive Talazoparib tosylate at 1 mg by mouth daily.,Cohort A - Triple-negative Breast Cancer
+NCT02401347,73531494,Talazoparib Tosylate,Participants receive Talazoparib tosylate at 1 mg by mouth daily.,Cohort B - HER2-negative solid tumor
+NCT03167619,73400936,Olaparib Oral Product,olaparib 300mg twice daily,A - olaparib alone
+NCT03167619,73400937,Olaparib Oral Product in combination with Durvalumab,olaparib 300mg twice daily plus intravenous durvalumab every 28 days,B - olaparib plus durvalumab
+NCT02282020,73534376,OLAPARIB,300 mg olaparib tablets taken orally twice daily. All patients should continue to receive study treatment until objective radiological disease progression as per RECIST 1.1 as assessed by the investigator or the patient experiences unacceptable toxicity or they meet any other discontinuation criteria.,1/OLAPARIB
+NCT02282020,73534377,Single agent chemotherapy,"Treatment of relapsed disease with single agent chemotherapy based on physician's choice of weekly paclitaxel, topotecan, pegylated liposomal doxorubicin, or gemcitabine. All patients should continue to receive study treatment until objective radiological disease progression as per RECIST 1.1 as assessed by the investigator or the patient experiences unacceptable toxicity or they meet any other discontinuation criteria",2/CHEMOTHERAPY
+NCT02898207,73873239,Olaparib,Given PO,Dose Level 0: Olaparib 200 mg and Onalespib 20 mg/m^2
+NCT02898207,73873239,Olaparib,Given PO,Dose Level 1: Olaparib 200 mg and Onalespib 40 mg/m^2
+NCT02898207,73873239,Olaparib,Given PO,Dose Level 2: Olaparib 300 mg and Onalespib 40 mg/m^2
+NCT02898207,73873239,Olaparib,Given PO,Dose Level 2a: Olaparib 200 mg and Onalespib 80 mg/m^2
+NCT02898207,73873239,Olaparib,Given PO,Dose Level 3: Olaparib 300 mg and Onalespib 80 mg/m^2
+NCT02898207,73873239,Olaparib,Given PO,Dose Level 3a: Olaparib 200 mg and Onalespib 120 mg/m^2
+NCT02898207,73873240,Onalespib,Given IV,Dose Level 0: Olaparib 200 mg and Onalespib 20 mg/m^2
+NCT02898207,73873240,Onalespib,Given IV,Dose Level 1: Olaparib 200 mg and Onalespib 40 mg/m^2
+NCT02898207,73873240,Onalespib,Given IV,Dose Level 2: Olaparib 300 mg and Onalespib 40 mg/m^2
+NCT02898207,73873240,Onalespib,Given IV,Dose Level 2a: Olaparib 200 mg and Onalespib 80 mg/m^2
+NCT02898207,73873240,Onalespib,Given IV,Dose Level 3: Olaparib 300 mg and Onalespib 80 mg/m^2
+NCT02898207,73873240,Onalespib,Given IV,Dose Level 3a: Olaparib 200 mg and Onalespib 120 mg/m^2
+NCT04171700,73254861,Rucaparib,Oral rucaparib will be administered twice daily. The starting dose will be 600 mg daily (BID).,Rucaparib
+NCT02561832,73693541,Olaparib,tablets taken orally twice daily,Arm 1
+NCT02561832,73693542,Carboplatin,intravenous injections on day one of each cycle,Arm 1
+NCT02561832,73693543,Anthracycline,The choice of anthracycline and cyclophosphamide (AC) regimen in Part B will be up to local Investigator following international guidelines,Arm 1
+NCT02561832,73693544,Cyclophosphamide,The choice of anthracycline and cyclophosphamide (AC) regimen in Part B will be up to local Investigator following international guidelines,Arm 1
+NCT01116648,73883292,Biopsy,Undergo optional tissue biopsy,Arm I (cediranib maleate and olaparib)
+NCT01116648,73883292,Biopsy,Undergo optional tissue biopsy,Arm II (olaparib)
+NCT01116648,73883293,Biospecimen Collection,Undergo blood sample collection,Arm I (cediranib maleate and olaparib)
+NCT01116648,73883293,Biospecimen Collection,Undergo blood sample collection,Arm II (olaparib)
+NCT01116648,73883294,Cediranib Maleate,Given PO,Arm I (cediranib maleate and olaparib)
+NCT01116648,73883295,Computed Tomography,Undergo CT,Arm I (cediranib maleate and olaparib)
+NCT01116648,73883295,Computed Tomography,Undergo CT,Arm II (olaparib)
+NCT01116648,73883296,Echocardiography,Undergo ECHO,Arm I (cediranib maleate and olaparib)
+NCT01116648,73883296,Echocardiography,Undergo ECHO,Arm II (olaparib)
+NCT01116648,73883297,Magnetic Resonance Imaging,Undergo MRI,Arm I (cediranib maleate and olaparib)
+NCT01116648,73883297,Magnetic Resonance Imaging,Undergo MRI,Arm II (olaparib)
+NCT01116648,73883298,Multigated Acquisition Scan,Undergo MUGA,Arm I (cediranib maleate and olaparib)
+NCT01116648,73883298,Multigated Acquisition Scan,Undergo MUGA,Arm II (olaparib)
+NCT01116648,73883299,Olaparib,Given PO,Arm I (cediranib maleate and olaparib)
+NCT01116648,73883299,Olaparib,Given PO,Arm II (olaparib)
+NCT02711137,73556920,INCB057643,"Initial cohort dose of INCB057643 at the protocol-specified starting dose (Part 1), with subsequent dose escalations based on protocol-specific criteria. The recommended treatment group-specific dose(s) will be taken forward into expansion cohorts (Part 2).",Part1/Treatment Group A : 12mg QD INCB057643
+NCT02711137,73556920,INCB057643,"Initial cohort dose of INCB057643 at the protocol-specified starting dose (Part 1), with subsequent dose escalations based on protocol-specific criteria. The recommended treatment group-specific dose(s) will be taken forward into expansion cohorts (Part 2).",Part1/Treatment Group A : 16mg QD INCB057643
+NCT02711137,73556920,INCB057643,"Initial cohort dose of INCB057643 at the protocol-specified starting dose (Part 1), with subsequent dose escalations based on protocol-specific criteria. The recommended treatment group-specific dose(s) will be taken forward into expansion cohorts (Part 2).",Part1/Treatment Group A : 8mg QD INCB057643
+NCT02711137,73556920,INCB057643,"Initial cohort dose of INCB057643 at the protocol-specified starting dose (Part 1), with subsequent dose escalations based on protocol-specific criteria. The recommended treatment group-specific dose(s) will be taken forward into expansion cohorts (Part 2).",Part1/Treatment Group B : 12mg QD INCB057643
+NCT02711137,73556920,INCB057643,"Initial cohort dose of INCB057643 at the protocol-specified starting dose (Part 1), with subsequent dose escalations based on protocol-specific criteria. The recommended treatment group-specific dose(s) will be taken forward into expansion cohorts (Part 2).",Part1/Treatment Group B : 8mg QD INCB057643
+NCT02711137,73556920,INCB057643,"Initial cohort dose of INCB057643 at the protocol-specified starting dose (Part 1), with subsequent dose escalations based on protocol-specific criteria. The recommended treatment group-specific dose(s) will be taken forward into expansion cohorts (Part 2).",Part1/Treatment Group C : 8mg QD INCB057643
+NCT02711137,73556920,INCB057643,"Initial cohort dose of INCB057643 at the protocol-specified starting dose (Part 1), with subsequent dose escalations based on protocol-specific criteria. The recommended treatment group-specific dose(s) will be taken forward into expansion cohorts (Part 2).",Part2/Treatment Group A : 12 mg INCB057643 Expansion Cohort
+NCT02711137,73556920,INCB057643,"Initial cohort dose of INCB057643 at the protocol-specified starting dose (Part 1), with subsequent dose escalations based on protocol-specific criteria. The recommended treatment group-specific dose(s) will be taken forward into expansion cohorts (Part 2).",Part2/Treatment Group B : 12 mg INCB057643 Expansion Cohort
+NCT02711137,73556920,INCB057643,"Initial cohort dose of INCB057643 at the protocol-specified starting dose (Part 1), with subsequent dose escalations based on protocol-specific criteria. The recommended treatment group-specific dose(s) will be taken forward into expansion cohorts (Part 2).",Part3/Treatment Group A : 8 mg INCB057643 + Gemcitabine 1000mg
+NCT02711137,73556920,INCB057643,"Initial cohort dose of INCB057643 at the protocol-specified starting dose (Part 1), with subsequent dose escalations based on protocol-specific criteria. The recommended treatment group-specific dose(s) will be taken forward into expansion cohorts (Part 2).",Part3/Treatment Group B : 8 mg INCB057643 + Paclitaxel 80mg
+NCT02711137,73556920,INCB057643,"Initial cohort dose of INCB057643 at the protocol-specified starting dose (Part 1), with subsequent dose escalations based on protocol-specific criteria. The recommended treatment group-specific dose(s) will be taken forward into expansion cohorts (Part 2).",Part3/Treatment Group C : 8 mg INCB057643 + Rucaparib 600mg
+NCT02711137,73556920,INCB057643,"Initial cohort dose of INCB057643 at the protocol-specified starting dose (Part 1), with subsequent dose escalations based on protocol-specific criteria. The recommended treatment group-specific dose(s) will be taken forward into expansion cohorts (Part 2).",Part3/Treatment Group D : 8 mg INCB057643 + Abir +Predni
+NCT02711137,73556920,INCB057643,"Initial cohort dose of INCB057643 at the protocol-specified starting dose (Part 1), with subsequent dose escalations based on protocol-specific criteria. The recommended treatment group-specific dose(s) will be taken forward into expansion cohorts (Part 2).",Part3/Treatment Group E : 8 mg INCB057643 + Ruxolitinib 20mg
+NCT02711137,73556920,INCB057643,"Initial cohort dose of INCB057643 at the protocol-specified starting dose (Part 1), with subsequent dose escalations based on protocol-specific criteria. The recommended treatment group-specific dose(s) will be taken forward into expansion cohorts (Part 2).",Part3/Treatment Group F : 8 mg INCB057643 + Azacitidine 75mg
+NCT02711137,73556921,Gemcitabine,Standard of Care (SOC) agents,Part3/Treatment Group A : 8 mg INCB057643 + Gemcitabine 1000mg
+NCT02711137,73556922,Paclitaxel,Standard of Care (SOC) agents,Part3/Treatment Group B : 8 mg INCB057643 + Paclitaxel 80mg
+NCT02711137,73556923,Rucaparib,Standard of Care (SOC) agents,Part3/Treatment Group C : 8 mg INCB057643 + Rucaparib 600mg
+NCT02711137,73556924,Abiraterone,Standard of Care (SOC) agents,Part3/Treatment Group D : 8 mg INCB057643 + Abir +Predni
+NCT02711137,73556925,Ruxolitinib,Standard of Care (SOC) agents,Part3/Treatment Group E : 8 mg INCB057643 + Ruxolitinib 20mg
+NCT02711137,73556926,Azacitidine,Standard of Care (SOC) agents,Part3/Treatment Group F : 8 mg INCB057643 + Azacitidine 75mg
+NCT03875313,73278106,CB-839,CB-839 oral tablets administered twice daily with food at the assigned dose level on 28 day cycles with talazoparib.,600 mg CB-839 + 1 mg Talazoparib
+NCT03875313,73278106,CB-839,CB-839 oral tablets administered twice daily with food at the assigned dose level on 28 day cycles with talazoparib.,800 mg CB-839 + 1 mg Talazoparib: CRC
+NCT03875313,73278106,CB-839,CB-839 oral tablets administered twice daily with food at the assigned dose level on 28 day cycles with talazoparib.,800 mg CB-839 + 1 mg Talazoparib: Other Histology
+NCT03875313,73278106,CB-839,CB-839 oral tablets administered twice daily with food at the assigned dose level on 28 day cycles with talazoparib.,800 mg CB-839 + 1 mg Talazoparib: TNBC
+NCT03875313,73278106,CB-839,CB-839 oral tablets administered twice daily with food at the assigned dose level on 28 day cycles with talazoparib.,800 mg CB-839 + 1 mg Talazoparib: ccRCC
+NCT03875313,73278107,Talazoparib,Talazoparib oral tablets administered at the standard dose once daily with or without food on 28 day cycles with CB-839.,600 mg CB-839 + 1 mg Talazoparib
+NCT03875313,73278107,Talazoparib,Talazoparib oral tablets administered at the standard dose once daily with or without food on 28 day cycles with CB-839.,800 mg CB-839 + 1 mg Talazoparib: CRC
+NCT03875313,73278107,Talazoparib,Talazoparib oral tablets administered at the standard dose once daily with or without food on 28 day cycles with CB-839.,800 mg CB-839 + 1 mg Talazoparib: Other Histology
+NCT03875313,73278107,Talazoparib,Talazoparib oral tablets administered at the standard dose once daily with or without food on 28 day cycles with CB-839.,800 mg CB-839 + 1 mg Talazoparib: TNBC
+NCT03875313,73278107,Talazoparib,Talazoparib oral tablets administered at the standard dose once daily with or without food on 28 day cycles with CB-839.,800 mg CB-839 + 1 mg Talazoparib: ccRCC
+NCT02034916,73563963,talazoparib,,talazoparib
+NCT03330405,73300783,Avelumab Phase 1b,Avelumab,Dose Level -1 Phase 1b
+NCT03330405,73300783,Avelumab Phase 1b,Avelumab,Dose Level -2 Phase 1b
+NCT03330405,73300783,Avelumab Phase 1b,Avelumab,Dose Level 0 Phase 1b
+NCT03330405,73300784,Talazoparib Phase 1b,Talazoparib,Dose Level -1 Phase 1b
+NCT03330405,73300784,Talazoparib Phase 1b,Talazoparib,Dose Level -2 Phase 1b
+NCT03330405,73300784,Talazoparib Phase 1b,Talazoparib,Dose Level 0 Phase 1b
+NCT03330405,73300785,Avelumab Phase 2,The dose will be determined after the overall available data (including safety and preliminary anti tumor activity) emerging from the Phase 1b portion of the study have been evaluated.,A1. NSCLC Phase 2
+NCT03330405,73300785,Avelumab Phase 2,The dose will be determined after the overall available data (including safety and preliminary anti tumor activity) emerging from the Phase 1b portion of the study have been evaluated.,A2. NSCLC PD-L1 Resistant DDR+ Phase 2
+NCT03330405,73300785,Avelumab Phase 2,The dose will be determined after the overall available data (including safety and preliminary anti tumor activity) emerging from the Phase 1b portion of the study have been evaluated.,B1. TNBC Phase 2
+NCT03330405,73300785,Avelumab Phase 2,The dose will be determined after the overall available data (including safety and preliminary anti tumor activity) emerging from the Phase 1b portion of the study have been evaluated.,B2. HR+BC DDR Defect +Assay Phase 2
+NCT03330405,73300785,Avelumab Phase 2,The dose will be determined after the overall available data (including safety and preliminary anti tumor activity) emerging from the Phase 1b portion of the study have been evaluated.,C1. Ovarian CA Recurrent Plat-Sensitive Phase 2
+NCT03330405,73300785,Avelumab Phase 2,The dose will be determined after the overall available data (including safety and preliminary anti tumor activity) emerging from the Phase 1b portion of the study have been evaluated.,C2.Ovarian CA Recurrent Plat-Sensitive BRCA defect Phase 2
+NCT03330405,73300785,Avelumab Phase 2,The dose will be determined after the overall available data (including safety and preliminary anti tumor activity) emerging from the Phase 1b portion of the study have been evaluated.,D.Urothelial CA Phase 2
+NCT03330405,73300785,Avelumab Phase 2,The dose will be determined after the overall available data (including safety and preliminary anti tumor activity) emerging from the Phase 1b portion of the study have been evaluated.,E1. CRPC Phase 2
+NCT03330405,73300785,Avelumab Phase 2,The dose will be determined after the overall available data (including safety and preliminary anti tumor activity) emerging from the Phase 1b portion of the study have been evaluated.,E2. CRPC DDR Defect +Assay Phase 2
+NCT03330405,73300785,Avelumab Phase 2,The dose will be determined after the overall available data (including safety and preliminary anti tumor activity) emerging from the Phase 1b portion of the study have been evaluated.,F: Advanced Solid Tumors with BRCA or ATM defect Phase 2
+NCT03330405,73300786,Talazoparib Phase 2,The dose will be determined after the overall available data (including safety and preliminary anti tumor activity) emerging from the Phase 1b portion of the study have been evaluated.,A1. NSCLC Phase 2
+NCT03330405,73300786,Talazoparib Phase 2,The dose will be determined after the overall available data (including safety and preliminary anti tumor activity) emerging from the Phase 1b portion of the study have been evaluated.,A2. NSCLC PD-L1 Resistant DDR+ Phase 2
+NCT03330405,73300786,Talazoparib Phase 2,The dose will be determined after the overall available data (including safety and preliminary anti tumor activity) emerging from the Phase 1b portion of the study have been evaluated.,B1. TNBC Phase 2
+NCT03330405,73300786,Talazoparib Phase 2,The dose will be determined after the overall available data (including safety and preliminary anti tumor activity) emerging from the Phase 1b portion of the study have been evaluated.,B2. HR+BC DDR Defect +Assay Phase 2
+NCT03330405,73300786,Talazoparib Phase 2,The dose will be determined after the overall available data (including safety and preliminary anti tumor activity) emerging from the Phase 1b portion of the study have been evaluated.,C1. Ovarian CA Recurrent Plat-Sensitive Phase 2
+NCT03330405,73300786,Talazoparib Phase 2,The dose will be determined after the overall available data (including safety and preliminary anti tumor activity) emerging from the Phase 1b portion of the study have been evaluated.,C2.Ovarian CA Recurrent Plat-Sensitive BRCA defect Phase 2
+NCT03330405,73300786,Talazoparib Phase 2,The dose will be determined after the overall available data (including safety and preliminary anti tumor activity) emerging from the Phase 1b portion of the study have been evaluated.,D.Urothelial CA Phase 2
+NCT03330405,73300786,Talazoparib Phase 2,The dose will be determined after the overall available data (including safety and preliminary anti tumor activity) emerging from the Phase 1b portion of the study have been evaluated.,E1. CRPC Phase 2
+NCT03330405,73300786,Talazoparib Phase 2,The dose will be determined after the overall available data (including safety and preliminary anti tumor activity) emerging from the Phase 1b portion of the study have been evaluated.,E2. CRPC DDR Defect +Assay Phase 2
+NCT03330405,73300786,Talazoparib Phase 2,The dose will be determined after the overall available data (including safety and preliminary anti tumor activity) emerging from the Phase 1b portion of the study have been evaluated.,F: Advanced Solid Tumors with BRCA or ATM defect Phase 2
+NCT02734004,73300821,Olaparib,Olaparib,Arm 1
+NCT02734004,73300821,Olaparib,Olaparib,Arm 2
+NCT02734004,73300821,Olaparib,Olaparib,Arm 3
+NCT02734004,73300822,MEDI4736,MEDI4736,Arm 1
+NCT02734004,73300822,MEDI4736,MEDI4736,Arm 2
+NCT02734004,73300822,MEDI4736,MEDI4736,Arm 3
+NCT02734004,73300823,Bevacizumab,Bevacizumab,Arm 3
+NCT03329937,73718351,Niraparib,"Niraparib is a potent, orally active, highly selective poly adenosine diphosphate ([ADP]-ribose) polymerase 1 (PARP1) and PARP2 inhibitor. It will be supplied as 100 mg capsules and will be administered at starting dose of 200 mg PO daily throughout 28 days for 2 cycles (each cycle is 28 days), with the potential for an additional 4 cycles (maximum total of 6 cycles) at the assigned dose and schedule.",Participants with HER2-negative and BRCAmut breast cancer
+NCT01945775,73442174,talazoparib,Until progression or unacceptable toxicity develops,talazoparib
+NCT01945775,73442175,Physician's-Choice,"Capecitabine, Eribulin, Gemcitabine or Vinorelbine",Physician's-Choice
+NCT01905592,73592748,niraparib,300 mg (3x100 mg capsules) once daily until progression or unacceptable toxicity develops,niraparib
+NCT01905592,73592749,Physician's choice,"Choice of 4 standard of care metastatic breast cancer chemotherapies, until progression or unacceptable toxicity develops",Physician's choice
+NCT02282345,73594894,Laboratory Biomarker Analysis,Correlative studies,Treatment (talazoparib)
+NCT02282345,73594895,Talazoparib,Given PO,Treatment (talazoparib)
+NCT04690855,73924051,Talazoparib,Talazoparib 1 mg Orally Day 1 to Day 28,Study Treatment Arm
+NCT04690855,73924052,Atezolizumab,Atezolizumab 840 mg IV over 60 minutes Day 15 of Cycle 1 then Day 1 and Day 15 of subsequent Cycles,Study Treatment Arm
+NCT04690855,73924053,Radiation,"Radiation 8 Gy will be given in 3 fractions QOD beginning Day 12, 13 or 14 of Cycle 1 but 24-72 hours prior to 1st dose of Atezolizumab",Study Treatment Arm
+NCT01506609,73609197,Placebo,,Placebo with Carboplatin and Paclitaxel
+NCT01506609,73609198,Veliparib,,Veliparib with Carboplatin and Paclitaxel
+NCT01506609,73609198,Veliparib,,Veliparib with Temozolomide
+NCT01506609,73609199,Carboplatin,,Placebo with Carboplatin and Paclitaxel
+NCT01506609,73609199,Carboplatin,,Veliparib with Carboplatin and Paclitaxel
+NCT01506609,73609200,Temozolomide,,Veliparib with Temozolomide
+NCT01506609,73609201,Paclitaxel,,Placebo with Carboplatin and Paclitaxel
+NCT01506609,73609201,Paclitaxel,,Veliparib with Carboplatin and Paclitaxel
+NCT01989546,73745968,BMN 673,"Poly (ADP-ribose) polymerase (PARP) inhibitor; has been shown to cause single-agent synthetic lethality in breast cancer 1 and breast cancer 2 (BRCA1/2)- and phosphatase and tensin homolog (PTEN)-deficient cell lines, and has potent antitumor activity in animal models of tumors harboring mutations in deoxyribonucleic acid (DNA) repair pathways.",1/Talazoparib (BMN 673)
+NCT03330847,73453905,Olaparib Continuous (28-Day cycle) 300 mg BD.,"Two (2) 150 mg olaparib tablets should be taken at the same time each day, approximately 12 hours apart with one glass of water (approximately 250 mL).",Olaparib monotherapy
+NCT03330847,73453906,Ceralasertib 160 mg OD + olaparib continuous 300 mg BD (28-day cycle).,Patients will be administered Ceralasertib OD at 160 mg from Day 1 to Day 7 (inclusive) of every 28-day cycle.,Olaparib+Ceralasertib
+NCT03330847,73453907,Adavosertib 150 mg BD + olaparib 200 mg BD (21-day cycle).,Patients will be administered adavosertib BD at 150mg from Day 1 to Day 3 and Day 8 to Day 10.,Olaparib+adavosertib
+NCT03286842,73755509,Olaparib,"Patients will be administered olaparib orally, twice daily at 300 mg. Two (2) 150 mg olaparib tablets should be taken at the same time each morning and evening of every day, approximately 12 hours apart.",Olaparib
+NCT02657889,73455100,niraparib,,niraparib plus pembrolizumab
+NCT02657889,73455101,pembrolizumab,,niraparib plus pembrolizumab
+NCT03343054,73951896,talazoparib,Talazoparib will be administered orally on a continuous basis. Talazoparib may be taken with or without food. Each cycle will consist of 28 days.,talazoparib
+NCT01306032,73958486,ABT-888,PARP enzymes are critical for maintaining genomic stability by regulating a variety of DNA repair mechanisms. Individuals with deleterious mutations in the BRCA1 or BRCA2 tumor suppressor genes have an increased risk of developing breast and ovarian cancers due to impaired or defective DNA damage repair; these individuals have an increased susceptibility to DNA-damaging agents and PARP inhibitors. Inhibition of PARP inhibits the repair of DNA damage caused by alkylating agents such as cyclophosphamide. Metronomic cyclophosphamide has demonstrated efficacy in several tumor types. The PARP inhibitor ABT-888 has been shown to potentiate the action of cyclophosphamide in xenograft models. This combination is well tolerated in a Phase I study and showing promising activity.,BRCA-positive Ovarian Cancer: ABT-888 + Cyclophosphamide
+NCT01306032,73958486,ABT-888,PARP enzymes are critical for maintaining genomic stability by regulating a variety of DNA repair mechanisms. Individuals with deleterious mutations in the BRCA1 or BRCA2 tumor suppressor genes have an increased risk of developing breast and ovarian cancers due to impaired or defective DNA damage repair; these individuals have an increased susceptibility to DNA-damaging agents and PARP inhibitors. Inhibition of PARP inhibits the repair of DNA damage caused by alkylating agents such as cyclophosphamide. Metronomic cyclophosphamide has demonstrated efficacy in several tumor types. The PARP inhibitor ABT-888 has been shown to potentiate the action of cyclophosphamide in xenograft models. This combination is well tolerated in a Phase I study and showing promising activity.,Non-Hodgkin's: ABT-888 + Cyclophosphamide
+NCT01306032,73958486,ABT-888,PARP enzymes are critical for maintaining genomic stability by regulating a variety of DNA repair mechanisms. Individuals with deleterious mutations in the BRCA1 or BRCA2 tumor suppressor genes have an increased risk of developing breast and ovarian cancers due to impaired or defective DNA damage repair; these individuals have an increased susceptibility to DNA-damaging agents and PARP inhibitors. Inhibition of PARP inhibits the repair of DNA damage caused by alkylating agents such as cyclophosphamide. Metronomic cyclophosphamide has demonstrated efficacy in several tumor types. The PARP inhibitor ABT-888 has been shown to potentiate the action of cyclophosphamide in xenograft models. This combination is well tolerated in a Phase I study and showing promising activity.,Triple-negative Breast Cancer: ABT-888 + Cyclophosphamide
+NCT01306032,73958487,Cyclophosphamide,,BRCA- positive Ovarian Cancer: Cyclophosphamide Alone
+NCT01306032,73958487,Cyclophosphamide,,BRCA-positive Ovarian Cancer: ABT-888 + Cyclophosphamide
+NCT01306032,73958487,Cyclophosphamide,,Non-Hodgkin's: ABT-888 + Cyclophosphamide
+NCT01306032,73958487,Cyclophosphamide,,Non-Hodgkin's: Cyclophosphamide Alone
+NCT01306032,73958487,Cyclophosphamide,,Triple-negative Breast Cancer: ABT-888 + Cyclophosphamide
+NCT01306032,73958487,Cyclophosphamide,,Triple-negative Breast Cancer: Cyclophosphamide Alone
+NCT01286987,73965267,Talazoparib,Oral capsule with multiple dosage forms given once daily,Talazoparib
+NCT00679783,73348975,AZD2281,"PARP inhibitor Olaparib tablets, oral",1
+NCT00679783,73348975,AZD2281,"PARP inhibitor Olaparib tablets, oral",2
+NCT00679783,73348975,AZD2281,"PARP inhibitor Olaparib tablets, oral",3
+NCT00679783,73348975,AZD2281,"PARP inhibitor Olaparib tablets, oral",4
+NCT01078662,73980451,olaparib,Tablets Oral BID,1
+NCT00494234,73989711,Olaparib,Participants will receive capsules of olaparib orally as stated in arm description.,Olaparib 100 mg
+NCT00494234,73989711,Olaparib,Participants will receive capsules of olaparib orally as stated in arm description.,Olaparib 400 mg
+NCT02163694,73643609,Veliparib Placebo,"Supplied as 40 mg, 50 mg, or 100 mg capsules for oral administration twice daily (BID) on Days -2 through 5 of a 21-day cycle.",Veliparib Placebo with Carboplatin and Paclitaxel
+NCT02163694,73643610,Veliparib,"Supplied as 40 mg, 50 mg, or 100 mg capsules for oral administration twice daily (BID) on Days -2 through 5 of a 21-day cycle.",Veliparib with Carboplatin and Paclitaxel
+NCT02163694,73643611,Carboplatin,Administered intravenously over approximately 15 to 30 minutes at an area under the curve (AUC) of 6 mg/mL/min immediately following paclitaxel infusion on Day 1 of every cycle. The duration of carboplatin infusion may be lengthened according to institutional guidelines.,Veliparib Placebo with Carboplatin and Paclitaxel
+NCT02163694,73643611,Carboplatin,Administered intravenously over approximately 15 to 30 minutes at an area under the curve (AUC) of 6 mg/mL/min immediately following paclitaxel infusion on Day 1 of every cycle. The duration of carboplatin infusion may be lengthened according to institutional guidelines.,Veliparib with Carboplatin and Paclitaxel
+NCT02163694,73643612,Paclitaxel,"Administered by intravenous infusion over approximately 1 hour at a dose of 80 mg/m² of body-surface area (BSA) on Days 1, 8, and 15 of each 21-day cycle. Paclitaxel is to be infused prior to carboplatin on Day 1. Dosing of veliparib/placebo is to be completed before the carboplatin or paclitaxel infusions.",Veliparib Placebo with Carboplatin and Paclitaxel
+NCT02163694,73643612,Paclitaxel,"Administered by intravenous infusion over approximately 1 hour at a dose of 80 mg/m² of body-surface area (BSA) on Days 1, 8, and 15 of each 21-day cycle. Paclitaxel is to be infused prior to carboplatin on Day 1. Dosing of veliparib/placebo is to be completed before the carboplatin or paclitaxel infusions.",Veliparib with Carboplatin and Paclitaxel
+NCT02000622,74000274,Olaparib,"Patients will be administered olaparib orally twice daily (bid) at 300 mg. Two (2) x 150 mg olaparib tablets should be taken at the same times each morning and evening of each day, approximately 12 hours apart with approximately 240 mL of water.",Olaparib
+NCT02000622,74000275,Physician's choice chemotherapy,"Investigators will declare one of the following regimens:
+
+Capecitabine 2500 mg/m2 po daily (divided in 2 doses) x 14 days, repeat every 21 days
+Vinorelbine 30 mg/m2 IV Day 1 and Day 8, repeat every 21 days
+Eribulin 1.4 mg/m2 IV Day 1 and Day 8, repeat every 21 days",Physician's choice chemotherapy
