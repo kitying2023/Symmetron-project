@@ -1,0 +1,13 @@
+nct_id,allocation,intervention_model,masking,subject_masked,caregiver_masked,investigator_masked,outcomes_assessor_masked
+NCT01116648,Randomized,Parallel Assignment,None (Open Label),,,,
+NCT01306032,Randomized,Crossover Assignment,None (Open Label),,,,
+NCT01506609,Randomized,Parallel Assignment,Double,True,,True,
+NCT01818063,Randomized,Parallel Assignment,None (Open Label),,,,
+NCT01905592,Randomized,Parallel Assignment,None (Open Label),,,,
+NCT01945775,Randomized,Parallel Assignment,None (Open Label),,,,
+NCT02000622,Randomized,Parallel Assignment,None (Open Label),,,,
+NCT02032823,Randomized,Parallel Assignment,Triple,True,True,True,
+NCT02163694,Randomized,Parallel Assignment,Double,True,,True,
+NCT02282020,Randomized,,None (Open Label),,,,
+NCT03167619,Randomized,Parallel Assignment,None (Open Label),,,,
+NCT03330847,Randomized,Parallel Assignment,None (Open Label),,,,
