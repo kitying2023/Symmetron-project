@@ -26,13 +26,6 @@ weighted_mean <- sum(age$mean * age$number/ sum(age$number))
 se_weighted_mean <- sqrt(sum(age$number * (age$mean - weighted_mean)^2) / sum(age$number)^2)
 sd_weighted_mean <- se_weighted_mean * sqrt(nrow(age))
 
-
-ggplot(age, aes(x = mean, xmin =  mean- 1.96 * se, xmax = mean + 1.96 * se, y = nct_id)) +
-  geom_point() +
-  geom_errorbarh(height = 0.2) +
-  geom_vline(xintercept = overall_mean, linetype = "dashed", color = "red") +  # Add a dashed line for the overall mean
-  labs(title = "Forest Plot", x = "Mean age", y = "Study")
-
 #install.packages("metafor")
 library(metafor)
 
@@ -41,43 +34,34 @@ result <- rma(mean, sei=se, data = age)
 
 # Create a forest plot
 forest(result, showweights = TRUE, slab = nct_id)
-ggsave("forest_plot.png", device = "png") 
+
+# Display the results
+summary(result)
 
 
+# 'measure' specifies the type of effect size to compute
 
+result <- escalc(measure = "SMD", m1i = mean1, sd1i = sd1, n1i = n1,
+                 m2i = mean2, sd2i = sd2, n2i = n2, data = your_data)
 
+# 'result' now contains the computed effect sizes and sampling variances
 
+##### back pain dataset ###
+age_back <- age_backpain
+columns_to_remove <- c("result_group_id","classification","category","title","dispersion_type")
+age_back <- age_back[, !(names(age_back) %in% columns_to_remove)]
+age_back <- age_back[complete.cases(age_back), ]
 
+colnames(age_back)[2] <- "mean"
+colnames(age_back)[3] <- "number"
+colnames(age_back)[4] <- "sd"
 
+# standard error of mean
+age_back <- age_back %>%
+  mutate(se = sd / sqrt(number))
 
+result <- rma(mean, sei=se, data = age_back)
 
-
-age <- age %>%
-  mutate(standardized_means = (mean - weighted_mean) / overall_sd)
-
-# Choose the desired confidence level (e.g., 95%)
-confidence_level <- 0.95
-
-# Calculate the Z-score based on the confidence level
-z_score <- qnorm((1 + confidence_level) / 2)
-
-# Calculate the margin of error for each standardized mean
-margin_of_error <- z_score * se_weighted_mean
-
-# Create new columns for the lower and upper bounds of the confidence interval
-age <- age %>%
-  mutate(
-    Lower_CI_Standardized_Mean = (standardized_means - margin_of_error),
-    Upper_CI_Standardized_Mean = (standardized_means + margin_of_error)
-  )
-
-# Create a forest plot using ggplot2
-ggplot(age, aes(x = standardized_means, xmin = Lower_CI_Standardized_Mean, xmax = Upper_CI_Standardized_Mean, y = nct_id)) +
-  geom_point() +
-  geom_errorbarh(height = 0.2) +
-  labs(title = "Forest Plot", x = "Mean", y = "Study")
-
-
-
-
+# Create a forest plot
+forest(result, showweights = TRUE, slab = nct_id)
 
