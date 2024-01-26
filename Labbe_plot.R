@@ -16,7 +16,7 @@ sex_ratio <- sex_breast %>%
   ) %>%
   filter(category == "Female")
 
-# Create a L'Abbé plot
+# gender plot for breast cancer dataset
 abbep <- ggplot(sex_ratio , aes(x = factor(nct_id), y = female_ratio)) +
   geom_point(size = 3, color = "blue") +
   geom_hline(yintercept = mean(sex_ratio$female_ratio), linetype = "dashed", color = "red") +
@@ -29,7 +29,7 @@ abbep <- ggplot(sex_ratio , aes(x = factor(nct_id), y = female_ratio)) +
 # Display the plot
 print(abbep)
 
-
+## working on back dataset ##
 sex_back <- sex_test2
 
 columns_to_remove <- c("result_group_id","ctgov_group_code","title")
@@ -44,7 +44,7 @@ sex_ratio2 <- sex_back %>%
   ) %>%
   filter(category == "Female")
 
-# Create a L'Abbé plot
+# # gender plot for back pain dataset
 abbep2 <- ggplot(sex_ratio2 , aes(x = factor(nct_id), y = female_ratio)) +
   geom_point(size = 3, color = "blue") +
   geom_hline(yintercept = mean(sex_ratio2$female_ratio), linetype = "dashed", color = "red") +
