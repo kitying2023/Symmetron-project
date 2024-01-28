@@ -1,10 +1,10 @@
 nct_id,result_group_id,classification,category,title,number,total_count,dispersion_type,dispersion_value
-NCT01945775,74658553,,,"Age, Continuous",48.1,431,Standard Deviation,11.80
-NCT02163694,74838551,,,"Age, Continuous",46.8,509,Standard Deviation,10.75
+NCT01116648,74380806,,,"Age, Continuous",57.7,155,Full Range,
+NCT01306032,74410713,,,"Age, Continuous",57,124,Standard Deviation,11
 NCT02032823,74616130,,,"Age, Continuous",43.3,1836,Standard Deviation,10.0
-NCT03167619,74624646,,,"Age, Continuous",51,45,Standard Deviation,11.8
+NCT01945775,74658553,,,"Age, Continuous",48.1,431,Standard Deviation,11.80
 NCT03330847,74663621,,,"Age, Continuous",53.6,273,Standard Deviation,11.21
-NCT02000622,75157065,Age (years),,"Age, Continuous",44,302,Full Range,
-NCT01116648,75082366,,,"Age, Continuous",57.7,155,Full Range,
+NCT03167619,74624646,,,"Age, Continuous",51,45,Standard Deviation,11.8
+NCT02163694,74137200,,,"Age, Continuous",46.8,509,Standard Deviation,10.75
+NCT02000622,74455746,Age (years),,"Age, Continuous",44,302,Full Range,
 NCT02282020,74700165,,,"Age, Continuous",59.2,266,Standard Deviation,9.5
-NCT01306032,75112158,,,"Age, Continuous",57,124,Standard Deviation,11
