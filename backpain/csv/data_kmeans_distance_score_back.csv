@@ -1,0 +1,23 @@
+nct_id,female_pct,white_pct,avg_age,intervention_model,masking,enrollment,number_of_arms,phase,actual_duration,distance_score
+NCT02868034,0.597510373,0.730290456,39.9,Factorial Assignment,Double,273,8,Phase 2,22,4.255913417
+NCT00118430,0.518,0.582,59,Parallel Assignment,None (Open Label),500,3,Phase 4,46,3.587247978
+NCT03360344,0.904761905,0,29.5,Parallel Assignment,Single,44,3,Not Applicable,8,3.018078621
+NCT01841216,0.566666667,0,32.6,Parallel Assignment,None (Open Label),30,2,Not Applicable,8,2.196299542
+NCT02391350,0.486363636,0.822727273,39,Parallel Assignment,Double,220,2,Not Applicable,56,2.128158289
+NCT03816007,0.125,0.46875,47.1,Parallel Assignment,Single,32,2,Not Applicable,10,1.765885806
+NCT02327325,0.066666667,0.466666667,70.3,Parallel Assignment,Single,60,3,Not Applicable,18,1.644755586
+NCT02524158,0.26,0.693333333,53.4,Parallel Assignment,Single,152,2,Not Applicable,36,1.459859536
+NCT02027623,0.610738255,0.738255034,42.5,Parallel Assignment,Double,154,2,Not Applicable,47,1.319319827
+NCT02938169,0.3125,0,54.81,Parallel Assignment,Single,60,4,Not Applicable,11,1.25572235
+NCT03415464,0.047619048,1,32,Parallel Assignment,None (Open Label),160,2,Not Applicable,19,1.189824342
+NCT01221233,0.470588235,0.941176471,71.6,Parallel Assignment,None (Open Label),38,2,Not Applicable,9,1.188323241
+NCT03484403,0.186440678,0,48.9,Parallel Assignment,None (Open Label),61,2,Not Applicable,45,1.171434488
+NCT02864732,0.633333333,0.733333333,35.87,Parallel Assignment,None (Open Label),30,2,Not Applicable,13,1.164184375
+NCT01312233,0.389312977,0.938931298,72.7,Parallel Assignment,Single,131,3,Not Applicable,20,1.129110556
+NCT01726803,0.522727273,0.813636364,37.5,Parallel Assignment,Double,220,2,Not Applicable,31,1.090860897
+NCT02503410,0.428571429,0.714285714,34.6,Parallel Assignment,Single,7,2,Not Applicable,21,1.020122621
+NCT04468074,0.491803279,0.885245902,34.2,Parallel Assignment,Single,72,2,Not Applicable,10,0.887017173
+NCT00285649,0.463541667,0.880208333,40,Parallel Assignment,Single,192,3,Not Applicable,27,0.753823267
+NCT03888235,0.629032258,0.822580645,52.03,Parallel Assignment,None (Open Label),62,3,Not Applicable,9,0.753032035
+NCT03502187,0.171875,0,25.5,Parallel Assignment,None (Open Label),133,3,Not Applicable,25,0.741229693
+NCT03504085,0.408163265,0.632653061,33,Parallel Assignment,None (Open Label),49,2,Not Applicable,25,0.643851608
