@@ -1,10 +1,10 @@
-nct_id,female_pct,white_pct,avg_age,intervention_model,masking,enrollment,arms,phase,duration,number_of_facilities
+nct_id,% female,% white,avg age,intervention,masking,enrollment,arms,phase,duration,facilities no.
 NCT00118430,0.518,0.582,59,Parallel,None (Open Label),500,3,Phase 4,46,1
 NCT00285649,0.463,0.88,40,Parallel,Single,192,3,Not Applicable,27,1
 NCT01221233,0.47,0.941,71.6,Parallel,None (Open Label),38,2,Not Applicable,9,1
 NCT01312233,0.389,0.938,72.7,Parallel,Single,131,3,Not Applicable,20,2
 NCT01726803,0.522,0.813,37.5,Parallel,Double,220,2,Not Applicable,31,2
-NCT01841216,0.566,0,32.6,Parallel,None (Open Label),30,2,Not Applicable,8,1
+NCT01841216,0.566,,32.6,Parallel,None (Open Label),30,2,Not Applicable,8,1
 NCT02027623,0.61,0.738,42.5,Parallel,Double,154,2,Not Applicable,47,1
 NCT02327325,0.066,0.466,70.3,Parallel,Single,60,3,Not Applicable,18,1
 NCT02391350,0.486,0.822,39,Parallel,Double,220,2,Not Applicable,56,1
@@ -12,12 +12,13 @@ NCT02503410,0.428,0.714,34.6,Parallel,Single,7,2,Not Applicable,21,1
 NCT02524158,0.26,0.693,53.4,Parallel,Single,152,2,Not Applicable,36,1
 NCT02864732,0.633,0.733,35.87,Parallel,None (Open Label),30,2,Not Applicable,13,
 NCT02868034,0.597,0.73,39.9,Factorial,Double,273,8,Phase 2,22,2
-NCT02938169,0.3125,0,54.81,Parallel,Single,60,4,Not Applicable,11,1
-NCT03360344,0.904,0,29.5,Parallel,Single,44,3,Not Applicable,8,1
+NCT02938169,0.3125,,54.81,Parallel,Single,60,4,Not Applicable,11,1
+NCT03360344,0.904,,29.5,Parallel,Single,44,3,Not Applicable,8,1
 NCT03415464,0.047,1,32,Parallel,None (Open Label),160,2,Not Applicable,19,1
-NCT03484403,0.186,0,48.9,Parallel,None (Open Label),61,2,Not Applicable,45,
-NCT03502187,0.171,0,25.5,Parallel,None (Open Label),133,3,Not Applicable,25,1
+NCT03484403,0.186,,48.9,Parallel,None (Open Label),61,2,Not Applicable,45,
+NCT03502187,0.171,,25.5,Parallel,None (Open Label),133,3,Not Applicable,25,1
 NCT03504085,0.408,0.632,33,Parallel,None (Open Label),49,2,Not Applicable,25,2
 NCT03816007,0.125,0.468,47.1,Parallel,Single,32,2,Not Applicable,10,1
 NCT03888235,0.629,0.823,52.03,Parallel,None (Open Label),62,3,Not Applicable,9,1
 NCT04468074,0.491,0.885,34.2,Parallel,Single,72,2,Not Applicable,10,1
+NCT03046472,0.52,,14.2,Parallel,Single,50,2,Not Applicable,9,1
