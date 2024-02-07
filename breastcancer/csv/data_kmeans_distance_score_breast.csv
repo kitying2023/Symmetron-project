@@ -1,0 +1,10 @@
+nct_id,female_pct,white_pct,avg_age,intervention_model,masking,enrollment,arms,phase,duration,number_of_facilities,cluster,distance_score
+NCT02032823,100,0,43.3,Parallel,Triple,1836,2,Phase 3,72,699,0,4.204219862
+NCT01306032,99,86,57,Crossover,None (Open Label),124,6,Phase 2,48,10,0,2.828743578
+NCT01116648,100,91,57.7,Parallel,None (Open Label),155,2,Phase 1/Phase 2,104,14,0,2.603509024
+NCT02000622,98,65,44,Parallel,None (Open Label),302,2,Phase 3,32,172,0,2.513395015
+NCT02163694,99,0,46.8,Parallel,Double,509,2,Phase 3,57,219,0,1.537218295
+NCT01945775,98,69,48.1,Parallel,None (Open Label),431,2,Phase 3,47,362,0,1.409137412
+NCT02282020,100,0,59.2,,None (Open Label),266,2,Phase 3,44,94,0,1.233127858
+NCT03330847,100,70,53.6,Parallel,None (Open Label),273,3,Phase 2,32,140,0,1.210227251
+NCT03167619,100,20,51,Parallel,None (Open Label),45,2,Phase 2,33,1,0,0.838489472
