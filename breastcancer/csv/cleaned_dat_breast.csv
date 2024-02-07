@@ -1,0 +1,10 @@
+nct_id,female_pct,white_pct,avg_age,intervention_model,masking,enrollment,arms,phase,duration,number_of_facilities
+NCT01116648,1,0.91,57.7,Parallel,None (Open Label),155,2,Phase 1/Phase 2,104,14
+NCT01306032,0.991,0.863,57,Crossover,None (Open Label),124,6,Phase 2,48,10
+NCT01945775,0.983,0.691,48.1,Parallel,None (Open Label),431,2,Phase 3,47,362
+NCT02000622,0.976,0.652,44,Parallel,None (Open Label),302,2,Phase 3,32,172
+NCT02032823,0.996,0,43.3,Parallel,Triple,1836,2,Phase 3,72,699
+NCT02163694,0.986,0,46.8,Parallel,Double,509,2,Phase 3,57,219
+NCT02282020,1,0,59.2,,None (Open Label),266,2,Phase 3,44,94
+NCT03167619,1,0.2,51,Parallel,None (Open Label),45,2,Phase 2,33,1
+NCT03330847,1,0.703,53.6,Parallel,None (Open Label),273,3,Phase 2,32,140
