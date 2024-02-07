@@ -1,3 +1,5 @@
+# Identifying Outliers in Randomized Controlled Trials Using ClinicalTrials.gov data
+
 The primary objective of this data challenge is to explore the feasibility of using data visualization tools and statistical methods to identify randomized controlled trials (RCTs) that are outliers in terms of study design and patient baseline characteristics. This study uses data from `ClinicalTrials.gov` and focuses on two sets of RCTs: 
 
 1. PARP (Poly ADP‐Ribose Polymerase) inhibitors for locally advanced or metastatic breast cancer
